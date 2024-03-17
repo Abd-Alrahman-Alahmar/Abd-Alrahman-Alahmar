@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Full-stack software engineer with <br> 4+ year experience building responsive web and mobile applications. Proficient in front-end frameworks like React/Next and mobile technologies such as Flutter, React Native, Java and Kotlin. I also have experience developing scalable back-ends using Node.js, Python, and Go to power RESTful APIs.</p>
+<p align="left">Full-stack software engineer with 4+ year experience building responsive web and mobile applications. Proficient in front-end frameworks like React/Next and mobile technologies such as Flutter, React Native, Java and Kotlin. I also have experience developing scalable back-ends using Node.js, Python, and Go to power RESTful APIs.</p>
 
 ###
 
